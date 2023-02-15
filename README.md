@@ -17,11 +17,14 @@ Interested in:
 ---
 Papers:
 
-1. 김진현, 최현영, 김강진, 최윤도, 반태원, 김세훈. (2021). AP-QoS 기반 Wi-Fi 슬라이싱의 실시간 시스템 적용의 한계 분석. 정보과학회논문지, 48(6), 723-734.
+1. Hyeong Rae Cho, Jin Hyun Kim, Hye Rin Yoon, Yong Seop Han, Tae Seen Kang, Hyunju Choi, Seunghwan Lee. (2022). Machine learning-based optimization of pre-symptomatic COVID-19 detection through smartwatch. Scientific Reports, 12(1), 7886.
+2. 조형래, 김진현, 한용섭, 강태신. (2022). 스마트워치 기반 COVID-19 전조 증상 탐지를 위한 이상탐지 기술의 성능 비교. 정보과학회 컴퓨팅의 실제 논문지 28 (7), 373-379
+3. 김진현, 한용섭, 조형래, 윤혜린, 김현수, 구다예, 강태신. (2021). 스마트워치 기반 COVID-19 전조 증상 탐지를 위한 이상탐지 기술의 성능 비교. 정보과학회 컴퓨팅의 실제 논문지 28 (7), 373-379
+2. 조형래, 김진현, 한용섭, 강태신. (2022). COVID-19 Detection using Disease Monitoring Systems based on Vital-signs from Smartwatch. 전기학회논문지 70 (8), 1197-1207
 
 ---
 Projects:
 
-1. [F1TENTH IROS 2020 (Team ICE)](https://f1tenth.org/iros2020.html)
-2. [F1TENTH IROS 2021 (Team ICE)](https://iros2021.f1tenth.org/results.html#virtual-results)
+1. [F1TENTH KSMTE 2022 (Team ACE)](https://korea-race.f1tenth.org/)
+2. [F1TENTH ICRA 2022 (Team ACE)](https://icra2022-race.f1tenth.org/)
 ---
