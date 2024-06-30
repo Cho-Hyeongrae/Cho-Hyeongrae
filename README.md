@@ -30,4 +30,7 @@
 2. [F1TENTH ICRA 2022 (Team ACE)](https://icra2022-race.f1tenth.org/)
 3. [2021 GNU 산학협력주간 캡스톤디자인 경진대회 (Team MiT)](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2009198&mi=1126)
 4. Development of Fundamental Technologies of AI Assistant for Untacted Diagnosis and Treatment of Ophthalmic Diseases
+5. 인공지능 학습용 데이터 구축 사업 - 과수원 내 로봇 주행 데이터(NIA & KIRO)
+6. 타겟 이동 예측 모델을 통한 Path Planning 기술 개발(LG Electronics)
+7. 상업용 로봇청소기의 빠른 매핑을 위한 탐색 주행 기술 개발(LG Electronics)
 ---
